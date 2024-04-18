@@ -95,4 +95,4 @@ plt.show()
 ![Screenshot 2024-04-18 140101](https://github.com/JaisonRaphael/WDM_EXP7/assets/94165957/40739753-0c3a-4ccb-b806-22a68f56c6bd)
 
 ### Result:
-thus The implement Link Analysis using HITS Algorithm in Python was successfully 
+Thus Link Analysis using HITS Algorithm in Python is successfully implemented.
